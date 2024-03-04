@@ -1,6 +1,6 @@
 import json
 
-with open(r"C:\Users\Ruslan\Desktop\Git\py_repo\tsis4\sample-data.json") as s:
+with open(r"C:\Users\Torekhan\Desktop\Git\py_repo\tsis4\sample-data.json") as s:
     data = json.load(s)
 
 print("""Interface Status
