@@ -1,5 +1,5 @@
 import re
-with open(r'C:\Users\Ruslan\Desktop\Git\py_repo\tsis5\row.txt','r',encoding='utf-8') as f:
+with open(r'C:\Users\Torekhan\Desktop\Git\py_repo\tsis5\row.txt','r',encoding='utf-8') as f:
     c = f.read()
     """Write a Python program that matches a string that has an 'a' followed by zero or more 'b''s."""
     '''
